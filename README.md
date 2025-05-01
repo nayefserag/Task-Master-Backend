@@ -41,7 +41,7 @@ It provides a RESTful API for managing user authentication and task operations, 
 
 ```bash
 # Clone the repository
-git clone <YOUR_BACKEND_REPO_URL>
+git clone https://github.com/nayefserag/Task-Master-Backend.git
 
 # Navigate into the project directory
 cd todo-app-backend
